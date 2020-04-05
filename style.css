@@ -1,0 +1,49 @@
+.title {
+  text-transform: uppercase;
+  color: #db1414;
+  font-weight: 900;
+  font-family: arial;
+  border: 5px inset;
+  text-align: center;
+}
+#title2 {
+  text-align: center;
+  color: #5c1949;
+}
+.ingredients {
+  text-transform: capitalize;
+  max-width: 500px;
+}
+.method {
+  text-transform: capitalize;
+  max-width: 500px;
+}
+#title3 {
+  text-align: center;
+  color: #5c1949;
+}
+.picture1 {
+  text-align: center;
+}
+.picture2 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: arial;
+  color: #1e7b7a;
+}
+header {
+  text-align: center;
+}
+.video {
+  text-align: center;
+}
+hr {
+  margin-top: 5.5em;
+  margin-bottom: 0.5em;
+  border-style: solid;
+  border-width: 3px;
+
+}

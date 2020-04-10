@@ -12,11 +12,11 @@
 }
 .ingredients {
   text-transform: capitalize;
-  max-width: 500px;
+  max-width: 1000px;
 }
 .method {
   text-transform: capitalize;
-  max-width: 500px;
+  max-width: 1000px;
 }
 #title3 {
   text-align: center;
@@ -42,8 +42,12 @@ header {
 }
 hr {
   margin-top: 5.5em;
-  margin-bottom: 0.5em;
+  margin-bottom: 5.5em;
   border-style: solid;
   border-width: 3px;
-
+}
+h6 {
+  text-transform: capitalize;
+  font-family: arial;
+  color: rgb(98, 216, 27);
 }

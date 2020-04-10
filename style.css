@@ -51,3 +51,9 @@ h6 {
   font-family: arial;
   color: rgb(98, 216, 27);
 }
+.container1 {
+  margin: auto;
+  width: 20%;
+  border: 0px solid #000000;
+  padding: 2px;
+}

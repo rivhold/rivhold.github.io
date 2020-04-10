@@ -1,9 +1,13 @@
+.title-con {
+   border: 5px inset;
+   margin: auto;
+  width: 30%;
+}
 .title {
   text-transform: uppercase;
   color: #db1414;
   font-weight: 900;
   font-family: arial;
-  border: 5px inset;
   text-align: center;
 }
 #title2 {
@@ -41,8 +45,8 @@ header {
   text-align: center;
 }
 hr {
-  margin-top: 5.5em;
-  margin-bottom: 5.5em;
+  margin-top: 2.5em;
+  margin-bottom: 1.5em;
   border-style: solid;
   border-width: 3px;
 }

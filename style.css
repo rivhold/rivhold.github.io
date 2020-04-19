@@ -45,8 +45,6 @@ header {
   text-align: center;
 }
 hr {
-  margin-top: 2.5em;
-  margin-bottom: 1.5em;
   border-style: solid;
   border-width: 2px;
 }
@@ -61,7 +59,7 @@ hr {
   margin: auto;
   width: 40%;
   border: 0px solid #000000;
-  padding: 2px;
+  padding: 10px;
    text-align: center;
 }
 .menu {
@@ -77,4 +75,16 @@ hr {
   font-family: arial;
   text-align: center;
   text-transform: uppercase;
+  font-size: 45px;
+  font-weight: bold;
+  padding-top: 25px;
+}
+.copyright {
+  text-transform: capitalize;
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+footer {
+  background-color: #F5F5F5;
 }

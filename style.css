@@ -8,15 +8,20 @@ margin: auto;
   background-color: #ff8040;
 }
 .audiocon {
+  margin: auto; 
+   text-align: center;
+    border: 0px solid #000000;
+   width: 60%;
   text-align: center;
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 h1 {
   text-transform: uppercase;
   font-weight: bold;
   font-family: Lucida Console;
   text-align: center;
-  font-size: 150px;
+  font-size: 100px;
 }
 h3 {
   text-transform: uppercase;

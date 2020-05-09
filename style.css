@@ -12,6 +12,7 @@ margin: auto;
    text-align: center;
     border: 1px solid #000000;
    width: 60%;
+  height: auto;
   text-align: center;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -22,6 +23,7 @@ h1 {
   font-family: Lucida Console;
   text-align: center;
   font-size: 100px;
+      -webkit-text-stroke: 1px white;
 }
 h3 {
   text-transform: uppercase;
@@ -30,13 +32,21 @@ h3 {
   text-align: center;
   font-size: 90px;
 }
+h4{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: Lucida Console;
+  text-align: center;
+  font-size: 90px;
+  
+}
 .love {
   text-transform: capitalize;
  font-family: "Comic Sans MS", cursive, sans-serif;
-  color: #dd0000; 
+  color: #ffffffff; 
     text-align: center;
     font-size: 90px;
-
+    -webkit-text-stroke: 7px black;
 }
 .container {
   margin: auto;
@@ -70,6 +80,7 @@ h3 {
 .lastly {
   text-align: center;
   font-family: "Lucida Console", Courier, monospace;
+      font-size: 20px;
 }
 .bottomcon {
   margin: auto; 
@@ -81,8 +92,10 @@ h3 {
 .whatever {
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: #d2d200;
+    font-weight: bold;
+    font-size: 90px;
 }
 .start{
-  font-size: 70px;
+  font-weight: bold;
   
 }
